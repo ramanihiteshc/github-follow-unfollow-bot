@@ -20,6 +20,6 @@ This is a Python script for Github Bot which uses Selenium to Automate things.
 
 # 
 
-## Author: [Chaudhary Hamdan](https://chaudharyhamdan.me/)
+## Author: [Ramani Hitesh](https://ramanihiteshc.github.io/)
 # 
 # Thank you
